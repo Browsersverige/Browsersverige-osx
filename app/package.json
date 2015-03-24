@@ -1,0 +1,27 @@
+{
+  "name": "browsersverige-app",
+  "version" : "0.1.0",
+  "main"    : "index.js",
+  "description": "Browsersverige as an OSX menu bar app",
+  "license": "MIT",
+  "repository": "urres/browsersverige-app",
+  "author": {
+    "name": "Urban Sanden",
+    "email": "hej@urre.me",
+    "url": "http://labs.urre.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "buil",
+    "tool",
+    "app",
+    "ui",
+    "osx"
+  ],
+  "private": "true",
+  "dependencies": {
+    "request": "~2.53.0"
+  }
+}
