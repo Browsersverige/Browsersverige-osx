@@ -18,14 +18,13 @@ Follow this [guide](https://github.com/sindresorhus/guides/blob/master/launch-ap
 
 ##### Setup
 
-- Download [atom-shell](https://github.com/atom/atom-shell/releases), rename `Atom.app` to `atom-shell.app` and put it in `/Applications`
-- Add `alias atom-shell='/Applications/atom-shell.app/Contents/MacOS/atom'` to your ``.bashrc/.bashprofile``
+- Install [electron](http://electron.atom.io/) with `npm install -g electron-prebuilt`
 
 ##### Run
 
 - ``cd app``
 - ``npm install` *(first time)*
-- ``atom-shell .`
+- ``electron .`
 
 ## Todo
 - [ ] Refresh numbers on menu item click i.e update api call
