@@ -18,19 +18,19 @@ Follow this [guide](https://github.com/sindresorhus/guides/blob/master/launch-ap
 
 ##### Setup
 
-- Install [electron](http://electron.atom.io/)
+Install [electron](http://electron.atom.io/)
 
-	`npm install -g electron-prebuilt`
+	npm install -g electron-prebuilt
+
+	npm install
 
 ##### Run
 
-- ``cd app``
-- ``npm install` *(first time)*
-- ``electron .`
++ ``cd app``
++ ``electron .`
 
 ## Todo
-- [ ] Refresh numbers on menu item click i.e update api call
-- [ ] Nicer look and feel
++ [ ] Background refresh for fetching new data from api. Or menu button.
 
 ## License
 
