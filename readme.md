@@ -29,7 +29,7 @@ Install dependencies
 ##### Run
 
 + ``cd app``
-+ ``electron .`
++ ``electron .``
 
 ## Todo
 + [ ] Background refresh for fetching new data from api. Or menu button.
