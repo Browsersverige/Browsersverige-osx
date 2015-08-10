@@ -22,6 +22,8 @@ Install [electron](http://electron.atom.io/)
 
 	npm install -g electron-prebuilt
 
+Install dependencies
+
 	npm install
 
 ##### Run
